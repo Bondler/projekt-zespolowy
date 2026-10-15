@@ -1,0 +1,1 @@
+console.log("Projekt Zespolowy - Super Edycja Ucznia B");
